@@ -1,25 +1,29 @@
-color: #FFA500;
-     font-size: 24px;
- }
- 
+body{
+    background-color: #d108089a;
+    color: black;
+    font-size: 14px;
+    padding: 0 14px;
+}
+     
  
  .paragrafo{
-     font-size: 18px;
+     font-size: 17px;
  }
  
  
  .rodape{
-     text-align: center;
      display: grid;
      font-size: 18px;
-     color: rgb(22, 187, 198);
+     color: rgb(0, 0, 0);
  }
  
  .imagem{
-     width: 60%;
+     width: 20%;
  }
  
- 
- .linha{
-     border-bottom: 1px solid #808080;
-     border-top: 1px solid #808080;
+ .texto-dois{
+    width:20px;
+ }
+.texto-um{
+    width:20px;
+}
